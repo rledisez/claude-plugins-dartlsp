@@ -211,6 +211,27 @@
       }
     },
     {
+      "name": "dart-lsp",
+      "description": "Dart/Flutter language server for code intelligence",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tyler Jewell"
+      },
+      "source": "./external_plugins/dart-lsp",
+      "category": "development",
+      "strict": false,
+      "lspServers": {
+        "dart": {
+          "command": "dart",
+          "args": ["language-server"],
+          "extensionToLanguage": {
+            ".dart": "dart"
+          }
+        }
+      },
+      "tags": ["community-managed"]
+    },
+    {
       "name": "jdtls-lsp",
       "description": "Java language server (Eclipse JDT.LS) for code intelligence",
       "version": "1.0.0",
