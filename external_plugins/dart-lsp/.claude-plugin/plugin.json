@@ -1,0 +1,16 @@
+{
+  "name": "dart-lsp",
+  "description": "Dart/Flutter language server plugin for Claude",
+  "author": {
+    "name": "@michelsciortino"
+  },
+  "lspServers": {
+    "dart": {
+      "command": "dart",
+      "args": ["language-server"],
+      "extensionToLanguage": {
+        ".dart": "dart"
+      }
+    }
+  }
+}

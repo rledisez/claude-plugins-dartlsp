@@ -18,7 +18,7 @@ Or browse for plugins in `/plugin > Discover`.
 
 | Plugin | Description |
 |--------|-------------|
-| _(more coming soon)_ | |
+| [`dart-lsp`](external_plugins/dart-lsp/README.md) | Dart/Flutter language server — go-to-definition, find references, hover info, and error checking for `.dart` files |
 
 ## Plugin Structure
 
