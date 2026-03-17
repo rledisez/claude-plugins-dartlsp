@@ -2,7 +2,7 @@
   "name": "dart-lsp",
   "description": "Dart/Flutter language server plugin for Claude",
   "author": {
-    "name": "@michelsciortino"
+    "name": "@rledisez"
   },
   "lspServers": {
     "dart": {

@@ -1,4 +1,4 @@
-# Claude Code Plugins - michelsciortino's Marketplace
+# Claude Code Plugins - rledisez's Marketplace
 
 A personal marketplace of plugins for Claude Code.
 
@@ -9,7 +9,7 @@ A personal marketplace of plugins for Claude Code.
 To install a plugin from this marketplace, run:
 
 ```
-/plugin install {plugin-name}@michelsciortino-marketplace
+/plugin install {plugin-name}@rledisez-marketplace
 ```
 
 Or browse for plugins in `/plugin > Discover`.
